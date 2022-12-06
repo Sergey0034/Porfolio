@@ -2,7 +2,7 @@
 
 Представляю мои работы:
 
-1. Проект сайта Macaroons:
+##1. Проект сайта Macaroons:
 - сайт по макету Figma
 - адаптивная верстка
 - анимация
@@ -11,6 +11,7 @@
 
     [Посмотреть проект Macaroons](https://sergey0034.github.io/Macaroons-layout/)
 
+
 2. Проект сайта для пиццерии "Pizza CHEFF":
 - сайт по макету Figma
 - адаптивная верстка
@@ -18,6 +19,7 @@
 - меню burger при адаптировании под мобильное устройство
 
     [Посмотреть проект "Pizza CHEFF"](https://sergey0034.github.io/Pizza-Cheff-adaptive/)
+
 
 3. Проект сайта "Tea" с использование bootstrap:
 - сайт по макету Figma
@@ -28,6 +30,7 @@
 - меню burger при адаптировании под мобильное устройство
 
     [Посмотреть проект "Tea" на bootstrap](https://sergey0034.github.io/Tea-bootstrap/)
+
 
 4. Проект сайта для кальянной "Hookah-project":
 - сайт по макету Figma
