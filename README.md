@@ -7,5 +7,4 @@
 
 [Проект Tea на bootstrap] (https://sergey0034.github.io/tea-bootstrap/)
 
-[Проект Quiz на JS] (https://sergey0034.github.io/Quiz-JS/)
 
