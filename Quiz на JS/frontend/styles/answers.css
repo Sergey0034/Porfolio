@@ -1,0 +1,146 @@
+.answer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.result-answer-title {
+    font-size: 20px;
+    line-height: 24px;
+    color: #DCDCF3;
+}
+
+.result-answer-title .span-arrow {
+    width: 15px;
+    height: 8px;
+    margin: 0 15px;
+}
+
+.result-answer-title .pre-answer-title {
+    font-size: 20px;
+    line-height: 24px;
+    color: #6933DC;
+}
+
+.answer-test-title {
+    font-size: 54px;
+    line-height: 65px;
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+    margin-top: 60px;
+}
+
+.answer-test-title span {
+    color: #6933DC;
+}
+
+.answer-question-title {
+    margin-top: 60px;
+}
+
+.answer-question-title {
+    font-size: 36px;
+    line-height: 43px;
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+}
+
+.answer-question-title span {
+    color: #6933DC;
+}
+
+.answer-question-option {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 20px;
+    display: flex;
+
+}
+
+.answer-question-option label {
+    cursor: pointer;
+}
+
+.answer-question-options {
+    margin-top: 40px;
+}
+
+.aright {
+    color: #5FDC33;
+}
+
+input[type="radio"].aright {
+    border: 6px solid #5FDC33;
+}
+
+.wrong {
+    color: #DC3333;
+}
+
+input[type="radio"].wrong {
+    border: 6px solid #DC3333;
+}
+
+
+.back-result {
+    margin-top: 60px;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.back-result a {
+    font-size: 17px;
+    line-height: 20px;
+    color: #6933DC;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.back-result a img {
+    margin-left: 13px;
+}
+
+.back-result a:hover {
+    text-decoration: underline;
+}
+
+.user-test-complete {
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.user-test-complete span {
+   color: #6933DC;
+}
+
+input[type="radio"] {
+    appearance: none; /*убирает стандартный стиль*/
+    -webkit-appearance: none;
+    min-width: 22px;
+    height: 21px;
+    border: 3px solid #6933DC;
+    border-radius: 50%;
+    margin: 0 13px 0 0;
+    transform: translateY(2px);
+    display: grid;
+    place-content: center;
+}
+
+input[type="radio"]::before {
+    content: "";
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    box-shadow: inset 10px 10px #6933DC;
+    transition: .2s ease transform;
+    transform: scale(0);
+
+}
+
+input[type="radio"]:checked::before {
+    transform: scale(1);
+}
+
+
+
