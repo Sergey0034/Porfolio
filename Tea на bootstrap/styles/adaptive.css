@@ -1,0 +1,41 @@
+@media screen and (max-width: 1199px) {
+    /*.next {*/
+    /*    left: 90%;*/
+    /*}*/
+}
+
+@media screen and (max-width: 767px) {
+    .products {
+        text-align: -webkit-center;
+    }
+
+    .products .row {
+        margin-bottom: 0!important;
+    }
+
+    .card {
+        margin-bottom: 15px;
+    }
+
+    .btn-submit {
+        width: 156px!important;
+    }
+
+    .block-text * {
+        margin-left: 0!important;
+    }
+
+    /*#accordion {*/
+    /*    width: 100%!important;*/
+    /*}*/
+}
+
+@media screen and (max-width: 425px) {
+    /*.block-text {*/
+    /*    padding-left: 1rem !important;*/
+    /*}*/
+}
+
+
+
+

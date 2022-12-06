@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+.slider1 {
+    background-image: url("../images/image1.png");
+    height: 640px;
+}
+
+.slider2 {
+    background-image: url("../images/image2.png");
+    height: 640px;
+
+}
+
+.slider3 {
+    background-image: url("../images/image3.png");
+    height: 640px;
+}
+
+.next {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    cursor: pointer;
+}
+
+.prev {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.accordion-button::after {
+    background-image: url("../images/akk-down.png");
+}
+
+
+.accordion-button::before {
+    background-image: url("../images/akk-up.png");
+}
+
+/*.ui-state-default {*/
+/*    background: #076BFF;*/
+/*    color: white;*/
+/*}*/
+
+/*.ui-accordion .ui-accordion-header {*/
+/*    padding: 25px;*/
+/*    border-radius: 10px;*/
+/*    font-weight: bold;*/
+/*}*/
+
+.ui-icon {
+    right: 25px;
+    width: 20px;
+    top: 50%;
+    position: absolute;
+}
+
+.ui-icon-circle-arrow-e,  .ui-state-default .ui-icon, .ui-button:hover .ui-icon {
+    background: url("../images/akk-down.png") no-repeat;
+}
+
+
+.ui-icon-circle-arrow-s, .ui-state-active .ui-icon, .ui-button:active .ui-icon  {
+    background: url("../images/akk-up.png") no-repeat;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    border: none;
+}
+
+/*.white-popup {*/
+/*    position: relative;*/
+/*    background: #FFF;*/
+/*    padding: 20px;*/
+/*    width: auto;*/
+/*    max-width: 510px;*/
+/*    margin: 20px auto;*/
+/*}*/
+
