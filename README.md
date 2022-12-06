@@ -9,7 +9,7 @@
 - форма для заказа
 - меню burger при адаптировании под мобильное устройство
 
-[Посмотреть проект Macaroons](https://sergey0034.github.io/Macaroons-layout/)
+    [Посмотреть проект Macaroons](https://sergey0034.github.io/Macaroons-layout/)
 
 2. Проект сайта для пиццерии "Pizza CHEFF":
 - сайт по макету Figma
@@ -17,7 +17,7 @@
 - скролл к соответсвующему блоку нажатием на кнопки "Выбрать пиццу" и "В корзину"
 - меню burger при адаптировании под мобильное устройство
 
-[Посмотреть проект "Pizza CHEFF"](https://sergey0034.github.io/Pizza-Cheff-adaptive/)
+    [Посмотреть проект "Pizza CHEFF"](https://sergey0034.github.io/Pizza-Cheff-adaptive/)
 
 3. Проект сайта "Tea" с использование bootstrap:
 - сайт по макету Figma
@@ -27,7 +27,7 @@
 - аккордеон
 - меню burger при адаптировании под мобильное устройство
 
-[Посмотреть проект "Tea" на bootstrap](https://sergey0034.github.io/Tea-bootstrap/)
+    [Посмотреть проект "Tea" на bootstrap](https://sergey0034.github.io/Tea-bootstrap/)
 
 4. Проект сайта для кальянной "Hookah-project":
 - сайт по макету Figma
@@ -37,7 +37,8 @@
 - слайдер Slick
 - валидация полей в форме "Забронировать столик"
 - Отправка формы через Ajax(для успешной отправки в поле "Ваше имя" указать: itlogia)
-[Проект Кальянная](https://sergey0034.github.io/Hookah-project/)
+
+    [Проект Кальянная](https://sergey0034.github.io/Hookah-project/)
 
 
 
