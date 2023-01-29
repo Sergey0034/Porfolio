@@ -17,17 +17,7 @@
 
     [Посмотреть проект "Pizza CHEFF"](https://sergey0034.github.io/Pizza-Cheff-adaptive/)
 
-## 3. Проект сайта "Tea" с использование bootstrap:
-- сайт по макету Figma
-- адаптивная верстка
-- анимация
-- слайдер
-- аккордеон
-- меню burger при адаптировании под мобильное устройство
-
-    [Посмотреть проект "Tea" на bootstrap](https://sergey0034.github.io/Tea-bootstrap/)
-
-## 4. Проект сайта для кальянной "Hookah-project":
+## 3. Проект сайта для кальянной "Hookah-project":
 - сайт по макету Figma
 - адаптивная верстка
 - анимация WoW
