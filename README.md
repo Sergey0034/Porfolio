@@ -15,7 +15,7 @@
 - скролл к соответсвующему блоку нажатием на кнопки "Выбрать пиццу" и "В корзину"
 - меню burger при адаптировании под мобильное устройство
 
-    [Посмотреть проект "Pizza CHEFF"](https://sergey0034.github.io/Pizza-Cheff-adaptive/)
+    [Посмотреть проект "Pizza CHEFF"](https://sergey0034.github.io/Pizza-Cheff/)
 
 ## 3. Проект сайта для кальянной "Hookah-project":
 - сайт по макету Figma
