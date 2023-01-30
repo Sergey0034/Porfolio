@@ -1,0 +1,23 @@
+{
+  "name": "hookah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "gulp-less": "^5.0.0",
+    "jquery": "^3.6.1",
+    "slick-carousel": "^1.8.1",
+    "wow.js": "^1.2.2",
+    "wowjs": "^1.1.3"
+  }
+}
